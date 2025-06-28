@@ -248,6 +248,7 @@ Nous allons mettre en place la pagination sur le tableau de l'exercice 6
 
 ### Exercice 8 - Récupérer les user depuis API GET (react-query GET /users)
 - Lancer la commande `npm install @tanstack/react-query@5.81.5`
+- Lancer la commande `npm axios@1.10.0`
 - Afficher les utilisateurs dans le tableau
 
 ### Exercice 9 - Formulaire de création d'un nouveau user (react-query => post /users)
