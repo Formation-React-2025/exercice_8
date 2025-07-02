@@ -2,7 +2,7 @@
 
 ## Exercice 8 - Exercice 8 - react-query : Récupération des users via API
 - Lancer la commande `npm install @tanstack/react-query@5.81.5`
-- Lancer la commande `npm axios@1.10.0`
+- Lancer la commande `npm install axios@1.10.0`
 - Télécharger le projet [api_backend](https://github.com/Formation-React-2025/api_backend) `git clone https://github.com/Formation-React-2025/api_backend.git`
 - Lancer l'API : dans le répertoire `api_backend` lancer les commandes `npm install` puis `npm start`
 
